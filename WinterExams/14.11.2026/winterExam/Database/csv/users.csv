@@ -1,0 +1,6 @@
+id,login,password,surname,name,patronymic,phone,role
+1,admin,admin123,Павлов,Сергей,Викторович,,1
+2,client,client123,Петрова,Анна,Сергеевна,+799594436542,2
+3,client2,natasha123,Симонова,Наталья,Маратовна,+79159197227,2
+4,client3,Kilexognat148,Жеребов,Даниил,Артемович,+79371646775,2
+5,trainer,trainer123,Нечаев,Петр,Андреевич,+79872271449,3
